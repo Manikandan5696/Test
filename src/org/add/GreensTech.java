@@ -9,5 +9,8 @@ public class GreensTech {
 		System.out.println("Greens Technology, Adyar");
 	}
 
-	
+	private void greensPerumbakkam() {
+		System.out.println("Greens Technology, Perumbakkam");
+
+	}
 }
