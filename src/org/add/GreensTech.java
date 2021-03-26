@@ -4,9 +4,7 @@ public class GreensTech {
 	public void greensOMR() {
 		System.out.println("Greens Technology, OMR");
 	}
-	private void greensPorur1() {
-		System.out.println("Greens Technology, Porur");
-	}
+
 	public void greensAdyar() {
 		System.out.println("Greens Technology, Adyar");
 	}
