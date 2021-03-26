@@ -11,6 +11,9 @@ public class GreensTech {
 
 	private void greensPerumbakkam() {
 		System.out.println("Greens Technology, Perumbakkam");
+	}
+		private void greensPorur() {
+			System.out.println("Greens Technology, Porur");
 
 	}
 }
